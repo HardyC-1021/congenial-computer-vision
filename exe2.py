@@ -1,7 +1,7 @@
 # 实验目的：实现边缘检测、Hough变换
 # 实验要求：自选一种边缘检测算子实现对图像的边缘检测；在边缘检测的基础上，应用Hough变换算法提取最可能存在于图像上的3条直线，给出直线表达式。
 # Canny边缘检测
-# Author：ccchqi
+# Author: HardyC-1021
 import matplotlib.pyplot as plt
 import numpy as np
 import math
