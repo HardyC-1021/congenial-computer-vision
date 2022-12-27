@@ -1,6 +1,6 @@
 # 实验目的：实现基于BoW特征的物体识别，学习物体识别过程
 # 实验要求：自选一种公开图像数据集，实现基于BoW特征的物体识别，在测试图像上的识别精度不低于70%
-# wubbalubbadubdub
+# Author: HardyC-1021
 import cv2
 import numpy as np
 
