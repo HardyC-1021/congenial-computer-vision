@@ -1,4 +1,5 @@
 # encoding=utf-8
+# Author: HardyC-1021
 import numpy as np
 import cv2, os
 import time
