@@ -1,6 +1,6 @@
 # 实验目的：学习卷积神经网络应用
 # 实验要求：在MNIST手写数字图像数据集上应用卷积神经网络进行数字识别，要求有完整训练和测试过程。
-# wubbalubbadubdub
+# # Author: HardyC-1021
 import torch
 from torchvision import transforms  # 对图像进行原始的数据处理的工具
 from torchvision import datasets  # 获取数据
