@@ -1,3 +1,5 @@
+# Author: HardyC-1021
+
 import tkinter
 import tkinter.filedialog
 from PIL import Image, ImageTk
