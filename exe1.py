@@ -1,7 +1,8 @@
 # 实验1 图像去燥、直方图均衡化(6%)
 # 实验目的：学习实践图像处理基本操作
 # 实验要求：编程实现对图像的基本去燥功能，及应用直方图均衡化实现对图像的增强处理。
-# Author: ccchqi
+# Author: HardyC-1021
+
 import cv2
 import numpy as np
 from PIL import Image
